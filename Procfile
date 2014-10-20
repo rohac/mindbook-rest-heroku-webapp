@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* cz.rohac.mindbook.heroku.Main
